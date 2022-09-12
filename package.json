@@ -5,9 +5,9 @@
   "author": "XPoet",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/XPoet/picx/issues"
+    "url": "https://github.com/H4K6/picx/issues"
   },
-  "homepage": "https://github.com/XPoet/picx#readme",
+  "homepage": "https://github.com/H4K6/picx#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
